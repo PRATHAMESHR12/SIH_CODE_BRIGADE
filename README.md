@@ -1,11 +1,11 @@
 # BriefCase : A deShare Platform
-![Screenshot (13)](https://github.com/nishant-Tiwari24/briefcase/assets/72213961/5b55af63-f855-4a85-978d-53a3b52a1d10)
+
 
 ## Getting Started
 
 + Clone the repository
 
-      git clone https://github.com/nishant-Tiwari24/briefcase.git
+     
 
 + Install IPFS Desktop Client
 
